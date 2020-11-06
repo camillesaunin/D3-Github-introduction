@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Space+Mono&display=swap');
+h1{
+    font-family: Lobster;
+    font-size: 64px;
+    line-height: 56px;
+    letter-spacing: -.04em;
+    margin-bottom: 24px;
+}
+p{
+    font-family:Space Mono;
+    font-size: 12px;
+    line-height: 1.65;
+    letter-spacing: -.02em;
+}

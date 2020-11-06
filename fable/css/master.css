@@ -1,0 +1,13 @@
+footer {
+  background: #F9F5F1;
+}
+body {
+  background:#F9F5F1;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+nav {
+  width: 100%;
+}
