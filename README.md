@@ -1,2 +1,2 @@
 # D3-Github-introduction
-Session de découverte et de son fonctionnement 
+Session de découverte et son fonctionnement 
